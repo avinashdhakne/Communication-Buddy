@@ -33,7 +33,7 @@
     touch-action: manipulation;
   }
   
-  .button-75:active {
+  /* .button-75:active {
     outline: 0;
   }
   
@@ -59,7 +59,7 @@
     .button-75 span {
       line-height: 50px;
     }
-  }
+  } */
 
   .result{
       margin-bottom: 50px;

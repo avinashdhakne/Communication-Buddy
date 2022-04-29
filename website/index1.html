@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3i4GIwmtxKU9ScGvRBNyefj-SbC8R_ax8sA&usqp=CAU">
@@ -14,6 +15,7 @@
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style1.css">
     <link rel="stylesheet" href="css/styleresult.css">
 
 </head>
@@ -41,32 +43,17 @@
 
 <section class="review" id="review">
 
-    <h1 class="heading"><span>Results</span> </h1>
+    <h1 class="heading"><span>Live Testing</span> </h1>
 
-    <div class="swiper review-slider swiper-wrapper">
+    <h3 class="mt-5" style="text-align: center"></h3>
+                    
+    <div style="text-align: center">
+        <img width="50%" src="{{ url_for('camera') }}">
+        <!-- HTML !-->
 
-        <div class="swiper-wrapper">
-            <!-- HTML !-->
-
-            <div class="swiper-slide box">
 
 
-<button class="button-75" role="button"><span class="text">Facial Emotion Detection</span></button>
-
-                <h3 class="result">
-                    Result1
-                </h3>
-
-<button class="button-75" role="button"><span class="text">Vocal Emotion Detection</span></button>
-
-                <h3 class="result">
-                    Result2
-                </h3>
-                
-            </div>
-
-        </div>
-
+        <figcaption><a href="http://localhost:5000/result"><button class="button-88" role="button">Let's Start</button></a></figcaption>
     </div>
 
 </section>
