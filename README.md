@@ -1,8 +1,8 @@
-# Communication-Buddy
+![Group 23](https://user-images.githubusercontent.com/78098329/165950326-db000636-8243-491a-852c-036c5d5c3807.svg)
 
 ## Inspiration
 
-Due to the lack of exposure to communication skills in youth, many people struggle with a lack of confidence and develop various phobias such as glossophobia and social phobia. We could solve this problem by providing them with a platform where they could practice and sharpen their communication skills. This application would allow them to practice their communication skills without anyone's interference and without feeling shy**. The application could be very helpful to students from rural areas or anyone who wishes to improve his or her communication skills. This application could be used for interview preparation as well as facial emotions and pitch emotions are very important there. They should be in sync. These emotions play a crucial role in you cracking an interview. Our application would help users to sharpen those skills.
+Due to the lack of exposure to communication skills in youth, many people struggle with a lack of confidence and develop various phobias such as glossophobia and social phobia. We could solve this problem by providing them with a platform where they could practice and sharpen their communication skills. This application would allow them to practice their communication skills without anyone's interference and without feeling shy. The application could be very helpful to students from rural areas or anyone who wishes to improve his or her communication skills. This application could be used for interview preparation as well as facial emotions and pitch emotions are very important there. They should be in sync. These emotions play a crucial role in you cracking an interview. Our application would help users to sharpen those skills.
 
 ## What it does
 
