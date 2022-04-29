@@ -370,8 +370,18 @@ section{
 .logo{
     margin: auto;
     margin-left: 10px;
+    
+    height: 40px;
+    flex-wrap: wrap;
+}
+
+.foot_logo{
+    margin: auto;
+    margin-right: 0px;
     height: 30px;
     flex-wrap: wrap;
+    margin-top: 10px;
+
 }
 
 .products .product-slider .box img{
@@ -599,6 +609,11 @@ section{
     color: #fff;
 }
 
+.share{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
 .footer .box-container .box .email{
     width: 100%;
     margin:.7rem 0;
@@ -608,6 +623,73 @@ section{
     font-size: 1.6rem;
     color:var(--black);
     text-transform: none;
+}
+
+.para{
+    color: #fff;
+    font-size: 1.8rem;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.flow1t{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.flow1{
+    size: 20px;
+    margin-bottom: 50px;
+    height: 400px;
+    padding-top: 0px;
+}
+
+
+.container1{
+    background-color: white;
+    margin: auto;
+    height: 500px;
+    width: 1500px;
+    flex-wrap: wrap;
+    padding: 30px;
+    align-items: center;
+    align-self: center;
+    padding: auto;
+    align-content: center;
+
+}
+
+.flow2t{
+    margin-bottom: 30px;
+}
+
+.flow22{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height: 400px;
+    width: 1000px;
+    
+}
+
+.hh{
+    margin-left:50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.flow{
+    /* margin-left: 100px; */
+    height: 400px;
+    width: 750px;
+    padding: 0%;
+
+    margin: auto;
+}
+
+.flow11{
+    size: 100px;
 }
 
 .footer .box-container .box .payment-img{
