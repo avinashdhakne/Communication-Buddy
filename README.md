@@ -42,7 +42,7 @@
 - Basics of Image and Audio processing and their applications. 
 - Implementation of two Deep Learning algorithms simultaneously in the real-time software application.
 - Deployment of models using flask on web applications 
-Embedding the OpenCV window in the web page in real-time 
+- Embedding the OpenCV window in the web page in real-time 
 
 ## What's next for Communication buddy
 
